@@ -1,6 +1,6 @@
 configuration {
 /*	modes: "window,drun,run,ssh";*/
-	font: "mono 30";
+	font: "mono 12.5";
 	hover-select: true;
   me-select-entry: "";/* Disable MousePrimary as an entry selector */
   me-accept-entry: [ MousePrimary , MouseSecondary, MouseDPrimary ];
